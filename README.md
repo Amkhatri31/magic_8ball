@@ -1,6 +1,8 @@
-# magic_8ball
+# magic_8ball🎱
 
-A new Flutter project.
+A fun magic 8 ball flutter application.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
 ## Getting Started
 
